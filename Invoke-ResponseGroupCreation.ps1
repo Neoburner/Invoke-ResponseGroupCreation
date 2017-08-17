@@ -26,7 +26,7 @@ Function ShowMenu {
 
     Write-Host " "
     Write-Host "*********************************"
-    Write-Host "KCC Response Group Creation v0.1"
+    Write-Host "Response Group Creation v0.1"
     Write-Host "*********************************"
     Write-Host " "
     Write-Host "1: Create Groups"
